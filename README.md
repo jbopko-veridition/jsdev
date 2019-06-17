@@ -5,3 +5,4 @@ Random JavaScript tutorials that we are working on
 STAGE
 
 # feature
+Staging branch created with feature changes that are NOT on master
